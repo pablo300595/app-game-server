@@ -1,0 +1,19 @@
+{
+  "name": "app-game-server",
+  "version": "1.0.0",
+  "description": "Game Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo300595/app-game-server.git"
+  },
+  "author": "Jose Pablo Valenzuela Miramontes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo300595/app-game-server/issues"
+  },
+  "homepage": "https://github.com/pablo300595/app-game-server#readme"
+}
